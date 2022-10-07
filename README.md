@@ -10,4 +10,10 @@ The main objective is to help you find your ideal pet, users have the option to 
 - Real-time chat
 - Geo-location filtering
 
+## License:
+Project is published under the CC0 1.0 Universal. Feel free to clone and modify the repo as long as usage is not commercial and authors are referenced :)
+
+#
+<p align="center">
 Created with ♥️ by DF
+</p>
