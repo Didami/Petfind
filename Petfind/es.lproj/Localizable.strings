@@ -1,0 +1,124 @@
+// MARK: - General
+"Done" = "Listo";
+"Cancel" = "Cancelar";
+"Delete" = "Eliminar";
+"Close" = "Cerrar";
+"Loading ..." = "Cargando ...";
+"Loading" = "Cargando";
+"Oops!" = "Ups!";
+"Got it" = "Entendido";
+"got it" = "entendido";
+"Next" = "Siguiente";
+"An unexpected error occurred." = "Ocurrió un error inesperado.";
+"Something went wrong." = "Algo salió mal.";
+"Success!" = "Éxito!";
+"User data has been updated." = "Los datos del usuario han sido actualizados.";
+"User has not added any info yet." = "El usuario no ha añadido datos aún.";
+"Are you sure?" = "¿Está seguro?";
+"Buy us a coffee" = "Cómpranos un café";
+
+"Dog" = "Perro";
+"Cat" = "Gato";
+"Other" = "Otro";
+"Male" = "Macho";
+"Female" = "Hembra";
+
+"Name" = "Nombre";
+"Type" = "Tipo";
+"Breed" = "Raza";
+"Gender" = "Género";
+"Age" = "Edad";
+"Location" = "Localización";
+"Owner" = "Dueño";
+
+// MARK: - Onboarding
+"help yourself" = "ayúdate a ti mismo";
+"Help animals" = "Ayuda animales";
+"Fill your heart with paws" = "Llena tu corazón con huellas";
+"fill paws with your heart" = "llena huellas con tu corazón";
+"your new pet in a swipe" = "tu nueva mascota en un swipe";
+
+"Hey there! Welcome to Petfind" = "¿Qué tal? Bienvenido a Petfind";
+"We will show you how to use Petfind." = "Te mostraremos cómo usar Petfind.";
+"This is the main bar" = "Esta es la barra principal";
+"Use direct messages to contact other users." = "Utiliza los mensajes directos para contactar con otros usuarios.";
+"Use this button to open the Side Bar." = "Usa este botón para abrir la Side Bar.";
+"Now we will teach you about the Home Menu." = "Ahora te enseñaremos sobre el menú de inicio.";
+
+"Pets appear on this stack, swipe in different directions to make a decision." = "Las mascotas aparecen en esta pila, desliza en diferentes direcciones para tomar una decisión.";
+"Or use buttons below" = "O usa los botones de abajo";
+"Filter by different types of pets" = "Filtra por diferentes tipos de mascotas";
+
+"Put up a pet for adoption by filling in this format." = "Da en adopción una mascota rellenando este formulario.";
+"Fill in fields with your pet info." = "Rellena los campos con la información de tu mascota.";
+"Add pet images by clicking and swiping." = "Agrega imágenes de tu mascotas haciendo clic y deslizando.";
+"Upload your pet by clicking this button." = "Sube tu mascota haciendo clic en este botón.";
+"Thanks for your download.\n- Didami ♥️" = "Gracias por tu descarga.\n- Didami ♥️";
+
+
+// MARK: - Auth
+"Login" = "Iniciar sesión";
+"Password" = "Contraseña";
+"Sign up" = "Crear cuenta";
+"Create a password" = "Crea una contraseña";
+"E-mail address" = "Correo electrónico";
+"Create a username" = "Crea un nombre de usuario";
+"Please fill in all required fields." = "Por favor, rellene todos los campos obligatorios.";
+"An unexpected error occurred. Make sure the info is correct." = "Ocurrió un error inesperado. Asegúrese de que la información sea correcta.";
+"An unexpected error occurred. E-mail address may be already taken or incorrect." = "Ocurrió un error inesperado. Es posible que la dirección de correo electrónico ya esté en uso o sea incorrecta.";
+"We would like to know your location to facilitate app usage." = "Nos gustaría saber su ubicación para facilitar el uso de la aplicación.";
+"By signing up, you agree to our" = "Al registrarte, aceptas nuestros";
+"Terms and conditions" = "Términos y condiciones";
+
+// MARK: - Side bar
+"Developed with ♥️ by Didami" = "Desarrollado con ♥️ por Didami";
+"Home" = "Inicio";
+"Adoptions" = "Adopciones";
+"Profile" = "Perfil";
+"About" = "Acerca de";
+"Log out" = "Cerrar sesión";
+"Admin" = "Administrar";
+
+// MARK: - Home
+"Dogs" = "Perros";
+"Cats" = "Gatos";
+"Others" = "Otros";
+"No pets available." = "No hay mascotas disponibles.";
+
+// MARK: - Adoptions
+"Put Up" = "Dar en";
+"My adoptions" = "Mis adopciones";
+"Enter pet name ..." = "Introduce el nombre de la mascota...";
+"Dog/Cat/Other ..." = "Perro/Gato/Otro ...";
+"Bulldog/Poodle/Etc ..." = "Bulldog/Poodle/Etc ...";
+"Male or female?" = "Macho o hembra?";
+"ex: 2 (years old)" = "ej: 2 (años)";
+"Advice" = "Consejo";
+"We highly recommend filling in all the fields before adding images." = "Recomendamos bastante rellenar todos los campos antes de agregar imágenes.";
+"No adoptions yet. 🐶" = "No hay adopciones aún. 🐶";
+"Interested people on" = "Personas interesadas en";
+"No users are interested in" = "No hay usuarios interesados en";
+"yet." = "aún.";
+"About you:" = "Sobre ti:";
+"Please extend text at least to 30 characters long." = "Por favor extienda el texto a por lo menos 30 carácteres de largo.";
+"Tell us about what you are looking for." = "Cuéntanos sobre lo qué estás buscando.";
+"Publish" = "Publicar";
+"Got adopted!" = "¡Fue adoptado!";
+"won't be shown to other users anymore." = "ya no se mostrará a otros usuarios.";
+"Apparently pet type does not match with the other images." = "Aparentemente el tipo de mascota no coincide con las otras imágenes.";
+"AI did not detect an animal, try uploading another photo." = "IA no detectó un animal, intenta subir otra foto.";
+"AI detected more than one animal, please upload another photo." = "IA detectó más de un animal, suba otra foto.";
+"detected!" = "detectado!";
+"Accept rules?" = "¿Aceptar reglas?";
+"By uploading a pet you agree to the publication rules, and therefore you abide by the consequences." = "Al subir una mascota, aceptas las reglas de publicación y, por lo tanto, te atienes las consecuencias.";
+
+// MARK: - Profile
+"My data" = "Mis datos";
+"My likes" = "Mis likes";
+"No likes yet. 🐶" = "No hay likes aún. 🐶";
+
+// MARK: - Messages
+"There are not messages." = "No hay mensajes.";
+"Send message" = "Enviar mensaje";
+"Type something ..." = "Escribe algo ...";
+"Send" = "Enviar";
