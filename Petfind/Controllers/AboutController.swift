@@ -118,3 +118,12 @@ extension AboutController: UICollectionViewDelegateFlowLayout, UICollectionViewD
         }
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

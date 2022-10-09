@@ -288,3 +288,12 @@ extension OnboardingController: UICollectionViewDelegateFlowLayout, UICollection
         return cell
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

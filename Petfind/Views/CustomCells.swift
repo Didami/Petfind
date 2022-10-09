@@ -793,3 +793,12 @@ class SocialCell: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

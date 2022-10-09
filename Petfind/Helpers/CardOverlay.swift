@@ -129,3 +129,12 @@ extension UIColor {
     static var cardGreen = UIColor(red: 49 / 255, green: 193 / 255, blue: 109 / 255, alpha: 1)
     static var cardBlue = UIColor(red: 52 / 255, green: 154 / 255, blue: 254 / 255, alpha: 1)
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

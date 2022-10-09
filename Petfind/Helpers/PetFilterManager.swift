@@ -157,3 +157,12 @@ final class PetFilterManager {
         UserDefaults.standard.set(passedPetsIds, forKey: UserDefaultsKey.passedPetsIds.rawValue)
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

@@ -329,3 +329,13 @@ public func estimatedFrameForText(text: String) -> CGRect {
 
     return NSString(string: text).boundingRect(with: maxSize, options: [.truncatesLastVisibleLine, .usesLineFragmentOrigin], attributes: [NSAttributedString.Key.font: UIFont.systemFont(ofSize: 22, weight: .medium)], context: nil)
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */
+

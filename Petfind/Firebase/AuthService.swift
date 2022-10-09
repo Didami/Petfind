@@ -101,3 +101,12 @@ public func isUserAdmin(userId: String?, completion: @escaping (_ isAdmin: Bool)
 //        completion(isAdmin)
 //    }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

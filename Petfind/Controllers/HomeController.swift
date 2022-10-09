@@ -565,3 +565,12 @@ extension HomeController: CoachMarksControllerDelegate, CoachMarksControllerData
         UserDefaults.standard.set(true, forKey: UserDefaultsKey.skipCoachMarks1.rawValue)
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

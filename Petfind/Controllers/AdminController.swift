@@ -186,3 +186,12 @@ extension AdminController: UICollectionViewDelegateFlowLayout, UICollectionViewD
         }
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

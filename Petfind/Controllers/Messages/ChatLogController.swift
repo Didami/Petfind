@@ -298,3 +298,12 @@ extension ChatLogController: UICollectionViewDelegateFlowLayout, UICollectionVie
         return cell
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

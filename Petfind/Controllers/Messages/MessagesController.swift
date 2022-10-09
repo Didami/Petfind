@@ -175,3 +175,12 @@ extension MessagesController: UICollectionViewDelegateFlowLayout, UICollectionVi
         }
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */

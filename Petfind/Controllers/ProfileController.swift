@@ -508,3 +508,12 @@ extension LikedController: UICollectionViewDelegateFlowLayout, UICollectionViewD
         }
     }
 }
+
+/*
+  _____       _____
+ /( )   \=== /     \----------------.
+|       |   |       |--------------  \
+|       |   |       |              \_/
+ \_____/     \_____/
+ 
+ */
